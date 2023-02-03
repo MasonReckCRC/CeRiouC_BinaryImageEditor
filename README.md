@@ -1,5 +1,5 @@
 # CeRiouC_BinaryImageEditor
-Image Editor and Painting Tool for small microcontroller binary pixel screens written in python
+Image Editor and Painting Tool for small microcontroller binary pixel screens written in python using pyGame
 IDE used is PyCharm, I will make a runnable application for this soon (check if there is one already). 
 
 List of Capabilities:
