@@ -631,6 +631,7 @@ class Editor:
         self.initDatastructures()
         self.setPixelsFromHex(hexArray)
         self.copyPixelsBinaryToDisplay()
+        self.saveScreenToHistory()
         return
 
     def setPixelsFromHex(self, hexArray):

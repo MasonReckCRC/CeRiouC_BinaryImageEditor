@@ -220,6 +220,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Data\crcFont\crcFont_S.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Data\dataFile.csv">
           <value>
             <Attribute>
@@ -228,6 +235,13 @@
           </value>
         </entry>
         <entry key="\Data\duck.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\flowFont\flowFont_0.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
